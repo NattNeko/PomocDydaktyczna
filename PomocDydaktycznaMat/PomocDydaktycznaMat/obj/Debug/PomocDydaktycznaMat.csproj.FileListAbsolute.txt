@@ -1,0 +1,10 @@
+C:\Users\1\source\repos\PomocDydaktycznaMat\PomocDydaktycznaMat\bin\Debug\PomocDydaktycznaMat.exe.config
+C:\Users\1\source\repos\PomocDydaktycznaMat\PomocDydaktycznaMat\bin\Debug\PomocDydaktycznaMat.exe
+C:\Users\1\source\repos\PomocDydaktycznaMat\PomocDydaktycznaMat\bin\Debug\PomocDydaktycznaMat.pdb
+C:\Users\1\source\repos\PomocDydaktycznaMat\PomocDydaktycznaMat\obj\Debug\PomocDydaktycznaMat.csprojAssemblyReference.cache
+C:\Users\1\source\repos\PomocDydaktycznaMat\PomocDydaktycznaMat\obj\Debug\PomocDydaktycznaMat.Form1.resources
+C:\Users\1\source\repos\PomocDydaktycznaMat\PomocDydaktycznaMat\obj\Debug\PomocDydaktycznaMat.Properties.Resources.resources
+C:\Users\1\source\repos\PomocDydaktycznaMat\PomocDydaktycznaMat\obj\Debug\PomocDydaktycznaMat.csproj.GenerateResource.cache
+C:\Users\1\source\repos\PomocDydaktycznaMat\PomocDydaktycznaMat\obj\Debug\PomocDydaktycznaMat.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\PomocDydaktycznaMat\PomocDydaktycznaMat\obj\Debug\PomocDydaktycznaMat.exe
+C:\Users\1\source\repos\PomocDydaktycznaMat\PomocDydaktycznaMat\obj\Debug\PomocDydaktycznaMat.pdb
